@@ -1,0 +1,1 @@
+n([target_int_to_vocab[i] for i in translate_logits])))
