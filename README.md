@@ -1,6 +1,4 @@
-# Claims Fraud Neural Network
-
-## Introduction
+# Introduction
 
 The neural network that we use is a Recurrent Neural Network (RNN) that takes in an input sequence, in this case a sentence (or sequence of words) in English, and outputs its recommendation (what it believes to be the sentence in french). It is made up of LSTM (Long Short Term Memory) cells which each process one element in the output sequence and then perdicts the next element.
 
